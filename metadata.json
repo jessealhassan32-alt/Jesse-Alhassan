@@ -1,0 +1,7 @@
+{
+  "name": "Small King Photography",
+  "description": "Professional photography portfolio for Small King Photography creating portraits, commercial brand visuals, products, and timeless event stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
